@@ -1,6 +1,4 @@
-# recommendations-with-IBM
-
-Project | Experimental Design &amp; Recommendations | Udacity Data Scientist Nanodegree
+# Recommendations-with-IBM
 
 In this project, interaction of users with articles published on the IBM Watson Studio platform is analyzed and further recommendations are made to them.
 
